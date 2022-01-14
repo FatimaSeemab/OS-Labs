@@ -1,0 +1,4 @@
+Hi this is fatima.
+A Computers science student doing lab at this time.
+Lab of operating systems to make a utility similar like grep command.
+The aim is to use and learn the four main system calls.   

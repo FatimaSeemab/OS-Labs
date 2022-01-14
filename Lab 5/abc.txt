@@ -1,0 +1,6 @@
+Tails, or The Amnesic Incognito Live System, is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.
+[5] All its incoming and outgoing connections are forced to go through Tor,[6] and any non-anonymous connections are blocked.
+ The system is designed to be booted as a live DVD or live USB, and will leave no digital footprint on the machine unless explicitly told to do so. 
+ It can also be run as a virtual machine, with some additional security risks.[7] 
+ The Tor Project provided financial support for its development in the beginnings of the project,[8] and continues to do so alongside numerous corporate and anonymous sponsors.
+  Tails comes with UEFI Secure Boot. 
